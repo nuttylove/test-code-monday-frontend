@@ -1,7 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# CODEMONDAY’s Frontend Developer
+```
+Implement a web application to show the COVID-19 related data, which the users can see all data lists
+(fetched from the provided API), and also can sort and filter the data.
+The purpose of this assignment is to check the basic technical requirements for CODEMONDAY’s
+Frontend developer and to get an idea of the technology stack that we are using to develop our web and
+mobile application.
+```
 ## Available Scripts
 
 In the project directory, you can run:
